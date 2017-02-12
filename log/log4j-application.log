@@ -1,0 +1,54 @@
+2017-02-11 22:30:47 DEBUG DaoFactory:70 - This is debug : Nuris
+2017-02-11 22:30:47 INFO  DaoFactory:74 - This is info : Nuris
+2017-02-11 22:30:47 WARN  DaoFactory:77 - This is warn : Nuris
+2017-02-11 22:30:47 ERROR DaoFactory:78 - This is error : Nuris
+2017-02-11 22:30:47 FATAL DaoFactory:79 - This is fatal : Nuris
+2017-02-11 23:10:04 DEBUG DaoFactory:72 - This is debug : Nuris
+2017-02-11 23:10:04 INFO  DaoFactory:76 - This is info : Nuris
+2017-02-11 23:10:04 WARN  DaoFactory:79 - This is warn : Nuris
+2017-02-11 23:10:04 ERROR DaoFactory:80 - This is error : Nuris
+2017-02-11 23:10:04 FATAL DaoFactory:81 - This is fatal : Nuris
+2017-02-11 23:17:43 INFO  DaoFactory:41 - Getting connect
+2017-02-11 23:17:44 DEBUG DaoFactory:76 - This is debug : Nuris
+2017-02-11 23:17:44 INFO  DaoFactory:80 - This is info : Nuris
+2017-02-11 23:17:44 WARN  DaoFactory:83 - This is warn : Nuris
+2017-02-11 23:17:44 ERROR DaoFactory:84 - This is error : Nuris
+2017-02-11 23:17:44 FATAL DaoFactory:85 - This is fatal : Nuris
+2017-02-11 23:17:44 INFO  DaoFactory:41 - Getting connect
+2017-02-11 23:28:15 INFO  DaoFactory:61 - Loading setting for database connectioin
+2017-02-11 23:28:15 INFO  DaoFactory:41 - Getting connect
+2017-02-11 23:28:16 INFO  DaoFactory:41 - Getting connect
+2017-02-11 23:31:03 INFO  DaoFactory:62 - Loading setting for database connectioin
+2017-02-11 23:31:03 INFO  DaoFactory:41 - Getting connect
+2017-02-11 23:31:04 INFO  DaoFactory:41 - Getting connect
+2017-02-11 23:59:08 INFO  DaoFactory:62 - Loading setting for database connectioin
+2017-02-11 23:59:08 INFO  DaoFactory:41 - Getting connect
+2017-02-11 23:59:09 INFO  DaoFactory:41 - Getting connect
+2017-02-11 23:59:09 INFO  DaoFactory:41 - Getting connect
+2017-02-12 00:01:58 INFO  DaoFactory:62 - Loading setting for database connectioin
+2017-02-12 00:01:58 INFO  DaoFactory:41 - Getting connect
+2017-02-12 00:01:59 INFO  DaoFactory:41 - Getting connect
+2017-02-12 00:01:59 INFO  DaoFactory:41 - Getting connect
+2017-02-12 00:02:20 INFO  DaoFactory:62 - Loading setting for database connectioin
+2017-02-12 00:02:20 INFO  DaoFactory:41 - Getting connect
+2017-02-12 00:02:21 INFO  DaoFactory:41 - Getting connect
+2017-02-12 00:02:21 INFO  DaoFactory:41 - Getting connect
+2017-02-12 00:05:35 INFO  DaoFactory:62 - Loading setting for database connectioin
+2017-02-12 00:05:36 INFO  DaoFactory:41 - Getting connect
+2017-02-12 00:05:36 INFO  DaoFactory:41 - Getting connect
+2017-02-12 00:05:36 INFO  DaoFactory:41 - Getting connect
+2017-02-12 00:07:02 INFO  DaoFactory:62 - Loading setting for database connectioin
+2017-02-12 00:07:02 INFO  DaoFactory:41 - Getting connect
+2017-02-12 00:07:02 INFO  DaoFactory:41 - Getting connect
+2017-02-12 00:07:02 INFO  DaoFactory:41 - Getting connect
+2017-02-12 00:09:45 INFO  DaoFactory:62 - Loading setting for database connectioin
+2017-02-12 00:09:45 INFO  DaoFactory:41 - Getting connect
+2017-02-12 00:09:45 INFO  DaoFactory:41 - Getting connect
+2017-02-12 00:09:46 INFO  DaoFactory:41 - Getting connect
+2017-02-12 00:10:13 INFO  DaoFactory:62 - Loading setting for database connectioin
+2017-02-12 00:10:13 INFO  DaoFactory:41 - Getting connect
+2017-02-12 00:10:13 INFO  DaoFactory:41 - Getting connect
+2017-02-12 00:10:13 INFO  DaoFactory:41 - Getting connect
+2017-02-12 11:13:09 INFO  DaoFactory:62 - Loading setting for database connectioin
+2017-02-12 11:13:09 INFO  DaoFactory:41 - Getting connect
+2017-02-12 11:13:10 INFO  DaoFactory:41 - Getting connect
